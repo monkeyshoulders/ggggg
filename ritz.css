@@ -1,0 +1,175 @@
+.header-ritz {
+  margin: 10rem 3rem 5rem 0;
+  width: 75%;
+  background: #1F85FC;
+  padding: 5rem;
+}
+
+.ritz-heading {
+  color: white;
+}
+
+.ritz-copy {
+  color: white;
+  line-height: 2.5rem;
+}
+
+.section-1 {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-1 p {
+  margin-top: 2rem;
+  line-height: 2.5rem;
+  width: 70%;
+}
+
+.list {
+  list-style: none;
+  margin: 2rem;
+}
+
+.list li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 1rem 0;
+}
+
+.section-2 {
+  background: #c4c4c4;
+  color: #333;
+  padding: 6rem 8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-2 img {
+  height: 30rem;
+  width: 40rem;
+  margin-left: 2rem;
+}
+
+.section-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 6rem;
+}
+
+.section-3 h3 {
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.section-3 p {
+  width: 70%;
+  line-height: 2.5rem;
+}
+
+.section-3 img {
+  width: 50rem;
+  margin: 2rem;
+}
+
+.section-4 {
+  background: #777;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem;
+}
+
+.section-4 h3 {
+  margin-bottom: 2rem;
+}
+
+.section-4-text {
+  margin: 0 10rem;
+}
+
+.section-4 img {
+  height: 20rem;
+  width: 30rem;
+  border: 5px solid white;
+  margin-top: 2rem;
+}
+
+.section-5 {
+  background: #39CCA9;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem 8rem;
+}
+
+.section-5 h3 {
+  margin-bottom: 2rem;
+}
+
+.section-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem 8rem;
+}
+
+.section-6 h3 {
+  color: black;
+}
+
+.section-6 img {
+  margin: 4rem;
+}
+
+.section-6-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-6-img img {
+  width: 30rem;
+  height: 20rem;
+  border: 5px solid #999;
+}
+
+.section-7 {
+  background: #F82D82;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem 8rem;
+}
+
+.section-7 h3 {
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+.section-7 p {
+  color: #fff;
+  line-height: 2.5rem;
+}
+
+.section-7 img {
+  float: right;
+  height: 25rem;
+  border: 5px solid white;
+  margin-left: 2rem;
+}
+
+.figma {
+  float: left;
+  margin: 2rem 0
+}
